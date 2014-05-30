@@ -3,6 +3,10 @@ gojava
 
 Proof of concept demonstrating how to call Go from Java.
 
+Source files of interest:
+* [Main.java](https://github.com/broady/gojava/blob/master/src/main/java/gojava/Main.java)
+* [main.go](https://github.com/broady/gojava/blob/master/src/main/go/main.go)
+
 Packaging:
 * Go binary is included in the jar file.
 
